@@ -66,4 +66,4 @@ This project is licensed under the MIT License.
 
 ## Contact
 
-For any questions or inquiries, please contact [Karan Patel] at [karanp0608@gmail.com].
+For any questions or inquiries, please contact Karan Patel at karanp0608@gmail.com
